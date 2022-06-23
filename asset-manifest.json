@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Sanskruthi/static/css/main.16a3b779.css",
+    "main.js": "/Sanskruthi/static/js/main.b0b5baba.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Sanskruthi/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logofinal.png": "/Sanskruthi/static/media/logofinal.5784b8c7bae69c5a79ba.png",
+    "index.html": "/Sanskruthi/index.html",
+    "main.16a3b779.css.map": "/Sanskruthi/static/css/main.16a3b779.css.map",
+    "main.b0b5baba.js.map": "/Sanskruthi/static/js/main.b0b5baba.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Sanskruthi/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16a3b779.css",
+    "static/js/main.b0b5baba.js"
+  ]
+}
