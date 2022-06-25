@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Sanskruthi/static/css/main.b675c321.css",
-    "main.js": "/Sanskruthi/static/js/main.f4600879.js",
+    "main.css": "/Sanskruthi/static/css/main.5e50b687.css",
+    "main.js": "/Sanskruthi/static/js/main.d619d5d1.js",
     "static/js/787.28cb0dcd.chunk.js": "/Sanskruthi/static/js/787.28cb0dcd.chunk.js",
     "static/media/logofinal.png": "/Sanskruthi/static/media/logofinal.5784b8c7bae69c5a79ba.png",
     "index.html": "/Sanskruthi/index.html",
-    "main.b675c321.css.map": "/Sanskruthi/static/css/main.b675c321.css.map",
-    "main.f4600879.js.map": "/Sanskruthi/static/js/main.f4600879.js.map",
+    "main.5e50b687.css.map": "/Sanskruthi/static/css/main.5e50b687.css.map",
+    "main.d619d5d1.js.map": "/Sanskruthi/static/js/main.d619d5d1.js.map",
     "787.28cb0dcd.chunk.js.map": "/Sanskruthi/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b675c321.css",
-    "static/js/main.f4600879.js"
+    "static/css/main.5e50b687.css",
+    "static/js/main.d619d5d1.js"
   ]
 }
