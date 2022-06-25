@@ -6,6 +6,7 @@ import About from './components/About';
 import Run from './components/Run';
 import Dates from './components/Dates';
 import Sanskruthi from './components/Sanskruthi';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
     <Sanskruthi></Sanskruthi>
     <Run></Run>
     <Dates></Dates>
+    <Footer></Footer>
     </>
   );
 }

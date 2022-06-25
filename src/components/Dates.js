@@ -1,5 +1,6 @@
 import React from "react";
 import "../App.css";
+
 export default function Dates() {
   return (
     <>
@@ -14,7 +15,6 @@ export default function Dates() {
           </div>
         </div>
       </section>
-      <footer></footer>
     </>
   );
 }
